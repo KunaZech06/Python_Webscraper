@@ -1,3 +1,3 @@
-# Python_Webscraper
+# Python Web scraper
 
-This is a python webscraper that scraps data from a website.
+This is a python web scraper that scraps data from a website using beautifulSoup library.
